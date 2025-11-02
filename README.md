@@ -1,0 +1,1 @@
+The intent of this report (available here: https://cti-report.streamlit.app/) is to provide a high-level overview of significant cyberspace developments during the reporting period. The report consists of open-source reporting and updates on vulnerabilities and exploits, ransomware and malware, and cyberattacks and campaigns.
